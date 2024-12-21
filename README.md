@@ -89,16 +89,6 @@ Located at `lib/screens/home_screen.dart`, this is the main screen of the app. I
 3. **User Interaction**:
    - Users can interact with the app using the floating action button to add expenses or edit/delete existing ones using the list options.
 
----
-
-## Screenshots
-### Home Screen
-_Description: Displays the list of added expenses._
-
-### Add/Edit Expense Dialog
-_Description: Allows the user to add a new expense or edit an existing one._
-
-
 
 ---
 
