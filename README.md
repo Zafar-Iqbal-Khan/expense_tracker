@@ -35,7 +35,7 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   [git clone <repository-url>](https://github.com/Zafar-Iqbal-Khan/expense_tracker.git)
+   [git clone https://github.com/Zafar-Iqbal-Khan/expense_tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
