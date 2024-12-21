@@ -58,7 +58,7 @@ lib/
 |
 |-- models/          # Data models (e.g., Expense)
 |-- providers/       # State management logic
-|-- screens/         # UI screens (e.g., HomeScreen)
+|-- screens/         # UI screens (e.g., HomeScreen,AuthScreen)
 |-- widgets/         # Reusable widgets
 ```
 
