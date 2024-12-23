@@ -91,6 +91,27 @@ Located at `lib/screens/home_screen.dart`, this is the main screen of the app. I
 
 
 ---
+## Screenshots
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/da3ac934-7227-4f7f-993c-a6a05ae5a2f4" width="250">
+  <img src="https://github.com/user-attachments/assets/11e18d36-e4b1-4e94-bc8c-05c44c565466" width="250">
+    <img src="https://github.com/user-attachments/assets/423aec31-8078-4aff-b0dd-30223be65df6" width="250">
+      <img src="https://github.com/user-attachments/assets/1cb5656c-2e15-41be-b1b3-85fa8ffd2582" width="250">
+     <img src="https://github.com/user-attachments/assets/90f34f7d-98e2-4211-afb3-91180504f53b" width="250">
+  
+
+
+
+
+
+ 
+
+
+
+  </p>
+
+---
 
 ## Contact
 For queries or support, please contact:
